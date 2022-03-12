@@ -8,5 +8,5 @@ Utilized **Machine Learning Algorithms** (k-means and linear regression) for dat
 ### Description
 
 This is a group project for my course CIS 400 (Social Media Data Mining) in Syracuse University \
-I am responsible for Data Analysis part. This repository contains my codes 
+I am responsible for Data Analysis part. This repository contains my codes and our report made using **Latex**
 
